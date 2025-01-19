@@ -58,5 +58,5 @@ The below screenshots will be helful to understand the GUI of this form.
 
 ## Acknowledgements
 
-Tkinter - Python's standard GUI library
-MySQL - Open-source relational database management system
+- Tkinter - Python's standard GUI library
+- MySQL - Open-source relational database management system
