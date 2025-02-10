@@ -1,7 +1,7 @@
 from tkinter import *
 import mysql.connector
 from tkinter import messagebox 
-conn = mysql.connector.connect(host="localhost", user="root",password="monikasql",database="student")
+conn = mysql.connector.connect(host="localhost", user="root",password="monikasql",database="student") #edit this details with your mysql username,password,database name
 
 Window = Tk()
 Window.geometry("900x600")
